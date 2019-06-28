@@ -1,3 +1,5 @@
-### CHESTNUT: Improve Serendipity in Movie Recommendation by an Information Theory-based Collaborative Filtering Approach
+### CHESTNUT Recommender
 
-This release only supports the review of submission to RecSys'19.
+CHESTNUT is a memory-based collaborative filtering system for serendipitous movie recommendations.
+
+Version 0.3
